@@ -1,2 +1,2 @@
-# geolocation
-group location for patients and doctors
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
